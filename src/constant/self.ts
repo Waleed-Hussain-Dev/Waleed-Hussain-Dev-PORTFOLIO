@@ -1,0 +1,48 @@
+export const selfData = {
+  name: "Waleed Hussain",
+  first_name: "Waleed",
+  last_name: "Hussain",
+  jobTitle: "Web Developer",
+  workFor: "Self-Employed",
+  current_location: {
+    city: "Pakistan",
+    state: "Punjab",
+    country: "Pakistan",
+  },
+  DOB: {
+    dd: 9,
+    mm: 8,
+    yyyy: 2004,
+  },
+  email: "waleed.hussain.dev@gmail.com",
+  roles: [
+    "Web Developer",
+    "Frontend Developer",
+    "Creative Coder",
+    "UI Enthusiast",
+    "Problem Solver",
+    "Code Craftsman",
+    "Digital Creator",
+    "Tech Explorer",
+  ],
+  desc: "Where Code Meets Creativity.",
+  bio: "I'm a passionate Web Developer who transforms ideas into stunning, responsive digital experiences. I specialize in building modern websites using HTML, CSS, and JavaScript — where code meets creativity.",
+  about: [
+    "Hi, I'm Waleed Hussain — a dedicated Web Developer with a passion for crafting clean, responsive, and visually appealing websites. I specialize in HTML, CSS, JavaScript, and modern web development practices to bring creative ideas to life on the internet.",
+    "I've worked as a Web Developer at ECTC and also pursue web development independently as a self-employed professional. My focus is on writing clean code, building responsive layouts, and delivering pixel-perfect user experiences.",
+    "When I'm not coding, I'm exploring new web technologies, working on personal projects, or sharing my development journey on social media. I believe in continuous learning and pushing the boundaries of what's possible on the web.",
+  ],
+
+  socials_username: {
+    facebook: "waleed.hussain.dev",
+    github: "waleedhussaindev",
+    instagram: "",
+    leetcode: "",
+    linkedin: "waleed-hussain-6072b03a2",
+    snapchat: "",
+    telegram: "",
+    twitter: "waleedhusaindev",
+    youtube: "@waleed_hussain_dev",
+    bluesky: "waleed-hussain-dev.bsky.social",
+  },
+};

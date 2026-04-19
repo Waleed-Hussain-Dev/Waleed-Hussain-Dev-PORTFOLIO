@@ -1,0 +1,27 @@
+# Waleed Hussain - Web Developer Portfolio
+
+## About
+Waleed Hussain is a Web Developer based in Pakistan. He specializes in building modern, responsive websites using HTML, CSS, and JavaScript. Where Code Meets Creativity.
+
+## Skills
+- **Languages**: HTML5, CSS3, JavaScript
+- **Concepts**: Web Development, Responsive Design
+- **Tools**: Vercel, SEO Optimization
+
+## Projects
+- **Velva Ecom Website**: A modern, responsive e-commerce website.
+- **Areeha Portfolio Website**: A professionally designed portfolio website.
+- **To-Do App**: A clean task management application.
+- **Calculator App**: A sleek, functional calculator application.
+
+## Contact
+- **Email**: waleed.hussain.dev@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/waleed-hussain-6072b03a2/
+- **YouTube**: https://www.youtube.com/@waleed_hussain_dev
+- **Facebook**: https://www.facebook.com/waleed.hussain.dev
+- **X**: https://x.com/waleedhusaindev
+- **Bluesky**: https://bsky.app/profile/waleed-hussain-dev.bsky.social
+
+## Content Structure
+- `/`: Main landing page with Hero, About, Skills, Experience, Projects, and Contact sections.
+- `/resume`: Direct link to view/download resume.
